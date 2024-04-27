@@ -40,8 +40,7 @@ int main()
 
     // Injecting code into the target process:
     LPVOID pRemoteThread = VirtualAllocEx(hProcess, NULL, 4096, MEM_RESERVE | MEM_COMMIT, PAGE_EXECUTE_READWRITE);
-    if (pRemoteThread == NULL) 
-    {
+    if (pRemoteThread == NULL) {
         printf("Failed to allocate memory in the target process.\n");
         CloseHandle(hProcess);
         return 1;
