@@ -1,4 +1,4 @@
-Risks Associated with the CreateRemoteThread Function in Windows:
+### RISKS ASSOCIATED WITH THE CREATEREMOTETHREAD FUNCTION IN WINDOWS:
 
 Introduction:
 The CreateRemoteThread function is a powerful tool in the Windows operating system, allowing the creation of threads within the address space of another process. Despite its positive uses in low-level programming, this function carries potential security risks.
