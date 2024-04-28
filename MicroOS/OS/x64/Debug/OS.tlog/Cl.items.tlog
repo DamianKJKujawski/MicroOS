@@ -1,0 +1,11 @@
+D:\Projekty\MicroOS\MicroOS\OS\ContextSwitching.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\ContextSwitching.obj
+D:\Projekty\MicroOS\MicroOS\OS\DeviceManager.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\DeviceManager.obj
+D:\Projekty\MicroOS\MicroOS\OS\FileManager.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\FileManager.obj
+D:\Projekty\MicroOS\MicroOS\OS\InterruptManager.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\InterruptManager.obj
+D:\Projekty\MicroOS\MicroOS\OS\main.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\main.obj
+D:\Projekty\MicroOS\MicroOS\OS\MemoryManager.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\MemoryManager.obj
+D:\Projekty\MicroOS\MicroOS\OS\Scheduler.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\Scheduler.obj
+D:\Projekty\MicroOS\MicroOS\OS\SecurityManager.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\SecurityManager.obj
+D:\Projekty\MicroOS\MicroOS\OS\Time.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\Time.obj
+D:\Projekty\MicroOS\MicroOS\OS\MicroOS.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\MicroOS.obj
+D:\Projekty\MicroOS\MicroOS\OS\MicroOS_Definitions.cpp;D:\Projekty\MicroOS\MicroOS\OS\x64\Debug\MicroOS_Definitions.obj

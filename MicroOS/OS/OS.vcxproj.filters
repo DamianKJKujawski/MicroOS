@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\main">
+      <UniqueIdentifier>{1b6ae96d-24a6-4ec3-a3da-7fda3717380b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\main">
+      <UniqueIdentifier>{365fcd66-8be8-4bbd-9b05-fb9fa85e380a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\main\MicroOS">
+      <UniqueIdentifier>{c6c920b4-1405-48aa-a5ed-ad30f928cc63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\main\MicroOS\Base">
+      <UniqueIdentifier>{33565abc-a483-45eb-9db0-c38557965ec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\main\MicroOS\Scheduler">
+      <UniqueIdentifier>{9b4a10bb-e625-4f70-ae96-bab1af50d27e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\main\MicroOS">
+      <UniqueIdentifier>{9cd984f7-ed88-4f7e-a2f3-4a70ed67e7bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\main\MicroOS\Base">
+      <UniqueIdentifier>{1b9761f1-e50a-498b-9b29-267fec63d057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\main\MicroOS\Scheduler">
+      <UniqueIdentifier>{b2da4c7b-d1fe-4b2f-b06b-f27497f87a76}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroOS_Definitions.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Scheduler.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS</Filter>
+    </ClCompile>
+    <ClCompile Include="FileManager.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityManager.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS</Filter>
+    </ClCompile>
+    <ClCompile Include="InterruptManager.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroOS.cpp">
+      <Filter>Pliki źródłowe\main</Filter>
+    </ClCompile>
+    <ClCompile Include="ContextSwitching.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS\Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryManager.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS</Filter>
+    </ClCompile>
+    <ClCompile Include="DeviceManager.cpp">
+      <Filter>Pliki źródłowe\main\MicroOS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MicroOS.h">
+      <Filter>Pliki nagłówkowe\main</Filter>
+    </ClInclude>
+    <ClInclude Include="MicroOS_Definitions.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Scheduler.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityManager.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS</Filter>
+    </ClInclude>
+    <ClInclude Include="FileManager.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS</Filter>
+    </ClInclude>
+    <ClInclude Include="InterruptManager.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS</Filter>
+    </ClInclude>
+    <ClInclude Include="ContextSwitching.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS\Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryManager.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceManager.h">
+      <Filter>Pliki nagłówkowe\main\MicroOS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
