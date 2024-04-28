@@ -4,7 +4,7 @@ Template for a simple OS designed for ESP32/ ATmega.
 
 ![MicroOS](https://github.com/DamianKJKujawski/TinyOS/assets/160174331/4f0a33c8-c478-4984-ba18-c1bda71e95c3)
 
-### RISKS ASSOCIATED WITH THE CREATEREMOTETHREAD FUNCTION IN WINDOWS:
+### RISKS ASSOCIATED WITH THE CreateRemoteThread FUNCTION IN WINDOWS:
 
 Introduction:
 The CreateRemoteThread function is a powerful tool in the Windows operating system, allowing the creation of threads within the address space of another process. Despite its positive uses in low-level programming, this function carries potential security risks.
