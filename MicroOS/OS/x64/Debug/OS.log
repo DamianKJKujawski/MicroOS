@@ -8,12 +8,11 @@
   SecurityManager.cpp
   Time.cpp
   MicroOS.cpp
-D:\Projekty\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244: "return": konwersja z "_Rep" do "unsigned long", możliwa utrata danych
-D:\Projekty\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:         with
-D:\Projekty\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:         [
-D:\Projekty\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:             _Rep=__int64
-D:\Projekty\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:         ]
+D:\Projekty\MicroOS\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244: "return": konwersja z "_Rep" do "unsigned long", możliwa utrata danych
+D:\Projekty\MicroOS\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:         with
+D:\Projekty\MicroOS\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:         [
+D:\Projekty\MicroOS\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:             _Rep=__int64
+D:\Projekty\MicroOS\MicroOS\MicroOS\OS\Time.cpp(8,85): warning C4244:         ]
   MicroOS_Definitions.cpp
   Generowanie kodu...
-  LINK : nie znaleziono elementu D:\Projekty\MicroOS\MicroOS\x64\Debug\OS.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
-  OS.vcxproj -> D:\Projekty\MicroOS\MicroOS\x64\Debug\OS.exe
+  OS.vcxproj -> D:\Projekty\MicroOS\MicroOS\MicroOS\x64\Debug\OS.exe
