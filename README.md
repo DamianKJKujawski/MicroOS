@@ -72,3 +72,7 @@ int main()
 }
 
 ```
+
+### MicroOS Template
+
+![MicroOS](https://github.com/DamianKJKujawski/TinyOS/assets/160174331/4f0a33c8-c478-4984-ba18-c1bda71e95c3)
