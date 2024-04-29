@@ -1,8 +1,63 @@
+GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-Projects](https://github.com/DamianKJKujawski/Ideas-Projects) [MicroOS](https://github.com/DamianKJKujawski/MicroOS) [Electronics](https://github.com/DamianKJKujawski/Electronics) [Design Patterns](https://github.com/DamianKJKujawski/DesignPatterns) [MulticorePLCUnit](https://github.com/DamianKJKujawski/MulticorePLCUnit)
+
 ### MicroOS Template
 
 Template for a simple OS designed for ESP32/ ATmega.
 
 ![MicroOS](https://github.com/DamianKJKujawski/TinyOS/assets/160174331/4f0a33c8-c478-4984-ba18-c1bda71e95c3)
+
+Project tree:
+
+```
+.
+│
+├── include/
+|      |
+│      └── main/
+|            |
+│            ├── MicroOS.h
+│            └── MicroOS/
+|                   |
+│                   ├── Base/
+│                   |       |
+│                   |       ├── MicroOS_Definitions.h
+│                   |       └── Time.h
+│                   |
+│                   ├── Scheduler/
+│                   |       |
+│                   |       └── ContextSwitching.h
+│                   |
+│                   ├── DeviceManager.h
+│                   ├── FileManager.h
+│                   ├── InterruptManager.h
+│                   ├── MemoryManager.h
+│                   ├── Scheduler.h
+│                   └── SecurityManager.h
+│            
+├── scr/
+|      |
+│      └── main/
+|            |
+│            ├── MicroOS.cpp
+│            └── MicroOS/
+|                   |
+│                   ├── Base/
+│                   |       |
+│                   |       ├── MicroOS_Definitions.cpp
+│                   |       └── Time.cpp
+│                   |
+│                   ├── Scheduler/
+│                   |       |
+│                   |       └── ContextSwitching.cpp
+│                   |
+│                   ├── DeviceManager.cpp
+│                   ├── FileManager.cpp
+│                   ├── InterruptManager.cpp
+│                   ├── MemoryManager.cpp
+│                   ├── Scheduler.cpp
+│                   └── SecurityManager.cpp
+
+```
 
 ### RISKS ASSOCIATED WITH THE CreateRemoteThread FUNCTION IN WINDOWS:
 
