@@ -12,7 +12,7 @@ typedef void(*__MICROOS_Function)();
 
 struct __MICROOS_Task
 {
-    __MICROOS_Function taskFunction;         // Pointer to the Task Function
+    __MICROOS_Function taskFunction;        // Pointer to the Task Function
 
     unsigned long interval;                 // Interval
     unsigned long previousMillis;           // Last time the Task was executed

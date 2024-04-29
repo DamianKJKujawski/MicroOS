@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\MemoryManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\MemoryManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\InterruptManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\InterruptManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\ContextSwitching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\ContextSwitching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\DeviceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\DeviceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\MicroOS_Definitions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\MicroOS_Definitions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\Scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\Scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F80FA98E-D3D0-4A0B-8A4B-07925FB5C68F}|OS\\OS.vcxproj|solutionrelative:OS\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextSwitching.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\ContextSwitching.h",
+              "RelativeDocumentMoniker": "OS\\ContextSwitching.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\ContextSwitching.h",
+              "RelativeToolTip": "OS\\ContextSwitching.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\Time.h",
+              "RelativeDocumentMoniker": "OS\\Time.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\Time.h",
+              "RelativeToolTip": "OS\\Time.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:49.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoryManager.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\MemoryManager.h",
+              "RelativeDocumentMoniker": "OS\\MemoryManager.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\MemoryManager.h",
+              "RelativeToolTip": "OS\\MemoryManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MicroOS_Definitions.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\MicroOS_Definitions.h",
+              "RelativeDocumentMoniker": "OS\\MicroOS_Definitions.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\MicroOS_Definitions.h",
+              "RelativeToolTip": "OS\\MicroOS_Definitions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:46.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scheduler.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\Scheduler.h",
+              "RelativeDocumentMoniker": "OS\\Scheduler.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\Scheduler.h",
+              "RelativeToolTip": "OS\\Scheduler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterruptManager.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\InterruptManager.h",
+              "RelativeDocumentMoniker": "OS\\InterruptManager.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\InterruptManager.h",
+              "RelativeToolTip": "OS\\InterruptManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:33.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileManager.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\FileManager.h",
+              "RelativeDocumentMoniker": "OS\\FileManager.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\FileManager.h",
+              "RelativeToolTip": "OS\\FileManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:14.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceManager.h",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\DeviceManager.h",
+              "RelativeDocumentMoniker": "OS\\DeviceManager.h",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\DeviceManager.h",
+              "RelativeToolTip": "OS\\DeviceManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:21:13.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\main.cpp",
+              "RelativeDocumentMoniker": "OS\\main.cpp",
+              "ToolTip": "D:\\Projekty\\MicroOS\\MicroOS\\MicroOS\\OS\\main.cpp",
+              "RelativeToolTip": "OS\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T07:20:33.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
